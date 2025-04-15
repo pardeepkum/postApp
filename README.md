@@ -1,16 +1,14 @@
-# post_app
+firebase setup done 
 
-A new Flutter project.
+authentication done firebnase 
 
-## Getting Started
+account setup api enable done 
 
-This project is a starting point for a Flutter application.
+deploy error so not resolved 
 
-A few resources to get you started if this is your first Flutter project:
+this task is learning to me cloud functions deployed and other one. I ahve learnt more this task 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+this task is first time perform to me cloud functions and so  i am stuck in same error cloud function 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
